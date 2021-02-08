@@ -1,0 +1,10 @@
+.global-nav-upper-links {
+    display: block;
+    font-family: "Roboto Condensed",Verdana,sans-serif;
+    font-size: .75em;
+    font-weight: 400;
+    margin: .625rem 0;
+    padding: 0;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
